@@ -7,4 +7,9 @@ public class HelloController {
     {
         return 100;
     }
+
+    public String getClassNo()
+    {
+        return "No1";
+    }
 }
